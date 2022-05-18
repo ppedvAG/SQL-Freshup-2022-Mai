@@ -37,17 +37,71 @@
           <AssociatedConnUserName />
           <FullPath>03_containedDB.sql</FullPath>
         </FileNode>
+        <FileNode Name="03_Wartungsplan.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03_Wartungsplan.sql</FullPath>
+        </FileNode>
         <FileNode Name="04_MAXDOP.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>04_MAXDOP.sql</FullPath>
         </FileNode>
+        <FileNode Name="05_Indizes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05_Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_ContainedDB.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06_ContainedDB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07_Richtlinien.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>07_Richtlinien.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09_Zeilenversionierung.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>09_Zeilenversionierung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ColumnStoreIndex.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ColumnStoreIndex.sql</FullPath>
+        </FileNode>
         <FileNode Name="instnwnd.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>instnwnd.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ScopedDatabase_ADR_Fill1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ScopedDatabase_ADR_Fill1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ScopedDatabase_ADR_Fill2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ScopedDatabase_ADR_Fill2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ScopedDatabase_ADR_SETUP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ScopedDatabase_ADR_SETUP.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
